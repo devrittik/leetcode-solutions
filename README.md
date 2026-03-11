@@ -88,6 +88,7 @@ Future additions may include solutions from:
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/devrittik/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/devrittik/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0415-add-strings](https://github.com/devrittik/leetcode-solutions/tree/master/0415-add-strings) |
 | [0885-spiral-matrix-iii](https://github.com/devrittik/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
@@ -102,6 +103,7 @@ Future additions may include solutions from:
 | [0033-search-in-rotated-sorted-array](https://github.com/devrittik/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devrittik/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/devrittik/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/devrittik/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/devrittik/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0179-largest-number](https://github.com/devrittik/leetcode-solutions/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/devrittik/leetcode-solutions/tree/master/0204-count-primes) |
@@ -227,6 +229,7 @@ Future additions may include solutions from:
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/devrittik/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/devrittik/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0885-spiral-matrix-iii](https://github.com/devrittik/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
