@@ -105,6 +105,7 @@ Future additions may include solutions from:
 | [0049-group-anagrams](https://github.com/devrittik/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/devrittik/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/devrittik/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0075-sort-colors](https://github.com/devrittik/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/devrittik/leetcode-solutions/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/devrittik/leetcode-solutions/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/devrittik/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -138,6 +139,7 @@ Future additions may include solutions from:
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/devrittik/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/devrittik/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/devrittik/leetcode-solutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/devrittik/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/devrittik/leetcode-solutions/tree/master/0268-missing-number) |
@@ -162,6 +164,7 @@ Future additions may include solutions from:
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devrittik/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devrittik/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/devrittik/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0345-reverse-vowels-of-a-string](https://github.com/devrittik/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/devrittik/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0647-palindromic-substrings](https://github.com/devrittik/leetcode-solutions/tree/master/0647-palindromic-substrings) |
