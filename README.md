@@ -73,6 +73,7 @@ Future additions may include solutions from:
 | [0680-valid-palindrome-ii](https://github.com/devrittik/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/devrittik/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0917-reverse-only-letters](https://github.com/devrittik/leetcode-solutions/tree/master/0917-reverse-only-letters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devrittik/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/devrittik/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Recursion
 |  |
@@ -156,5 +157,6 @@ Future additions may include solutions from:
 ## Stack
 |  |
 | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devrittik/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/devrittik/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
