@@ -57,6 +57,7 @@ Future additions may include solutions from:
 | [0005-longest-palindromic-substring](https://github.com/devrittik/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/devrittik/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/devrittik/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devrittik/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/devrittik/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/devrittik/leetcode-solutions/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/devrittik/leetcode-solutions/tree/master/0273-integer-to-english-words) |
@@ -108,6 +109,7 @@ Future additions may include solutions from:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devrittik/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devrittik/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,4 +122,8 @@ Future additions may include solutions from:
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/devrittik/leetcode-solutions/tree/master/0767-reorganize-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devrittik/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
