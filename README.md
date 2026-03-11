@@ -53,6 +53,7 @@ Future additions may include solutions from:
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/devrittik/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/devrittik/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0179-largest-number](https://github.com/devrittik/leetcode-solutions/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/devrittik/leetcode-solutions/tree/master/0273-integer-to-english-words) |
@@ -92,4 +93,12 @@ Future additions may include solutions from:
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/devrittik/leetcode-solutions/tree/master/0409-longest-palindrome) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/devrittik/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/devrittik/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
