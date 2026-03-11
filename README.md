@@ -56,6 +56,7 @@ Future additions may include solutions from:
 | [0006-zigzag-conversion](https://github.com/devrittik/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0179-largest-number](https://github.com/devrittik/leetcode-solutions/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/devrittik/leetcode-solutions/tree/master/0273-integer-to-english-words) |
+| [0409-longest-palindrome](https://github.com/devrittik/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/devrittik/leetcode-solutions/tree/master/0415-add-strings) |
 ## Recursion
 |  |
@@ -82,8 +83,13 @@ Future additions may include solutions from:
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/devrittik/leetcode-solutions/tree/master/0179-largest-number) |
+| [0409-longest-palindrome](https://github.com/devrittik/leetcode-solutions/tree/master/0409-longest-palindrome) |
 ## Sorting
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/devrittik/leetcode-solutions/tree/master/0179-largest-number) |
+## Hash Table
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/devrittik/leetcode-solutions/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
