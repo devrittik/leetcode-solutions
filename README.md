@@ -17,24 +17,6 @@ https://leetcode.com/u/devrittik/
 
 ---
 
-## 📂 Repository Structure
-
-Solutions are organized by topic:
-
-Arrays/  
-Strings/  
-Dynamic-Programming/  
-Graphs/  
-Trees/  
-Recursion/  
-Binary-Search/  
-
-Each solution includes:
-- Clean implementation
-- Problem number & name
-
----
-
 ## 🎯 Goals
 
 - Consistently solve LeetCode problems  
