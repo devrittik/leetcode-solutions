@@ -96,6 +96,7 @@ Future additions may include solutions from:
 | [0049-group-anagrams](https://github.com/devrittik/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/devrittik/leetcode-solutions/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/devrittik/leetcode-solutions/tree/master/0204-count-primes) |
+| [0238-product-of-array-except-self](https://github.com/devrittik/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/devrittik/leetcode-solutions/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/devrittik/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/devrittik/leetcode-solutions/tree/master/0539-minimum-time-difference) |
@@ -197,6 +198,7 @@ Future additions may include solutions from:
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/devrittik/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/devrittik/leetcode-solutions/tree/master/0724-find-pivot-index) |
 ## Bit Manipulation
 |  |
