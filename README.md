@@ -89,6 +89,7 @@ Future additions may include solutions from:
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/devrittik/leetcode-solutions/tree/master/0415-add-strings) |
+| [0885-spiral-matrix-iii](https://github.com/devrittik/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
 | [1006-clumsy-factorial](https://github.com/devrittik/leetcode-solutions/tree/master/1006-clumsy-factorial) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/devrittik/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2028-find-missing-observations](https://github.com/devrittik/leetcode-solutions/tree/master/2028-find-missing-observations) |
@@ -111,6 +112,7 @@ Future additions may include solutions from:
 | [0658-find-k-closest-elements](https://github.com/devrittik/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/devrittik/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/devrittik/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0885-spiral-matrix-iii](https://github.com/devrittik/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
 | [2028-find-missing-observations](https://github.com/devrittik/leetcode-solutions/tree/master/2028-find-missing-observations) |
 | [3819-rotate-non-negative-elements](https://github.com/devrittik/leetcode-solutions/tree/master/3819-rotate-non-negative-elements) |
 ## Enumeration
@@ -220,4 +222,8 @@ Future additions may include solutions from:
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/devrittik/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [0885-spiral-matrix-iii](https://github.com/devrittik/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
