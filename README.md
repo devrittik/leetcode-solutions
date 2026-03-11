@@ -118,12 +118,14 @@ Future additions may include solutions from:
 | [0724-find-pivot-index](https://github.com/devrittik/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/devrittik/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0885-spiral-matrix-iii](https://github.com/devrittik/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
+| [1995-count-special-quadruplets](https://github.com/devrittik/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 | [2028-find-missing-observations](https://github.com/devrittik/leetcode-solutions/tree/master/2028-find-missing-observations) |
 | [3819-rotate-non-negative-elements](https://github.com/devrittik/leetcode-solutions/tree/master/3819-rotate-non-negative-elements) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/devrittik/leetcode-solutions/tree/master/0204-count-primes) |
+| [1995-count-special-quadruplets](https://github.com/devrittik/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 ## Number Theory
 |  |
 | ------- |
@@ -159,6 +161,7 @@ Future additions may include solutions from:
 | [0409-longest-palindrome](https://github.com/devrittik/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/devrittik/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0767-reorganize-string](https://github.com/devrittik/leetcode-solutions/tree/master/0767-reorganize-string) |
+| [1995-count-special-quadruplets](https://github.com/devrittik/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 ## Two Pointers
 |  |
 | ------- |
