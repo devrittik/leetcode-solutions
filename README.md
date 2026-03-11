@@ -47,12 +47,18 @@ Future additions may include solutions from:
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/devrittik/leetcode-solutions/tree/master/0273-integer-to-english-words) |
+| [0415-add-strings](https://github.com/devrittik/leetcode-solutions/tree/master/0415-add-strings) |
 ## String
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/devrittik/leetcode-solutions/tree/master/0273-integer-to-english-words) |
+| [0415-add-strings](https://github.com/devrittik/leetcode-solutions/tree/master/0415-add-strings) |
 ## Recursion
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/devrittik/leetcode-solutions/tree/master/0273-integer-to-english-words) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/devrittik/leetcode-solutions/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
