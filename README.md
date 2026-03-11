@@ -46,6 +46,7 @@ Future additions may include solutions from:
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/devrittik/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0204-count-primes](https://github.com/devrittik/leetcode-solutions/tree/master/0204-count-primes) |
 | [0273-integer-to-english-words](https://github.com/devrittik/leetcode-solutions/tree/master/0273-integer-to-english-words) |
 | [0415-add-strings](https://github.com/devrittik/leetcode-solutions/tree/master/0415-add-strings) |
