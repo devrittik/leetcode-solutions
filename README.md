@@ -7,7 +7,7 @@ The goal is to improve problem-solving skills, strengthen Data Structures & Algo
 
 ## 📊 LeetCode Stats
 
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=devrittik)
+![LeetCode Stats](https://leetcard.jacoblin.cool/devrittik)
 
 ---
 
