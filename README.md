@@ -92,6 +92,7 @@ Future additions may include solutions from:
 | [0049-group-anagrams](https://github.com/devrittik/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/devrittik/leetcode-solutions/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/devrittik/leetcode-solutions/tree/master/0204-count-primes) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/devrittik/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/devrittik/leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0658-find-k-closest-elements](https://github.com/devrittik/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 ## Enumeration
@@ -115,6 +116,7 @@ Future additions may include solutions from:
 | [0049-group-anagrams](https://github.com/devrittik/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/devrittik/leetcode-solutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/devrittik/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/devrittik/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/devrittik/leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0658-find-k-closest-elements](https://github.com/devrittik/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/devrittik/leetcode-solutions/tree/master/0767-reorganize-string) |
@@ -127,6 +129,7 @@ Future additions may include solutions from:
 | [0205-isomorphic-strings](https://github.com/devrittik/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/devrittik/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/devrittik/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/devrittik/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0767-reorganize-string](https://github.com/devrittik/leetcode-solutions/tree/master/0767-reorganize-string) |
 ## Two Pointers
 |  |
@@ -134,6 +137,7 @@ Future additions may include solutions from:
 | [0005-longest-palindromic-substring](https://github.com/devrittik/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devrittik/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/devrittik/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/devrittik/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0647-palindromic-substrings](https://github.com/devrittik/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/devrittik/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/devrittik/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
@@ -173,5 +177,6 @@ Future additions may include solutions from:
 ## Binary Search
 |  |
 | ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/devrittik/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/devrittik/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
