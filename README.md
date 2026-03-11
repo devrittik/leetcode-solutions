@@ -54,6 +54,7 @@ Future additions may include solutions from:
 | [0415-add-strings](https://github.com/devrittik/leetcode-solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/devrittik/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0539-minimum-time-difference](https://github.com/devrittik/leetcode-solutions/tree/master/0539-minimum-time-difference) |
+| [1006-clumsy-factorial](https://github.com/devrittik/leetcode-solutions/tree/master/1006-clumsy-factorial) |
 ## String
 |  |
 | ------- |
@@ -87,6 +88,7 @@ Future additions may include solutions from:
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/devrittik/leetcode-solutions/tree/master/0415-add-strings) |
+| [1006-clumsy-factorial](https://github.com/devrittik/leetcode-solutions/tree/master/1006-clumsy-factorial) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/devrittik/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Array
 |  |
@@ -181,6 +183,7 @@ Future additions may include solutions from:
 ## Stack
 |  |
 | ------- |
+| [1006-clumsy-factorial](https://github.com/devrittik/leetcode-solutions/tree/master/1006-clumsy-factorial) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devrittik/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/devrittik/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
