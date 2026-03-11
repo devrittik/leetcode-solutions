@@ -49,6 +49,7 @@ Future additions may include solutions from:
 | [0007-reverse-integer](https://github.com/devrittik/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/devrittik/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0204-count-primes](https://github.com/devrittik/leetcode-solutions/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/devrittik/leetcode-solutions/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/devrittik/leetcode-solutions/tree/master/0273-integer-to-english-words) |
 | [0415-add-strings](https://github.com/devrittik/leetcode-solutions/tree/master/0415-add-strings) |
 | [0539-minimum-time-difference](https://github.com/devrittik/leetcode-solutions/tree/master/0539-minimum-time-difference) |
@@ -93,6 +94,7 @@ Future additions may include solutions from:
 | [0049-group-anagrams](https://github.com/devrittik/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/devrittik/leetcode-solutions/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/devrittik/leetcode-solutions/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/devrittik/leetcode-solutions/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/devrittik/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/devrittik/leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devrittik/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -120,6 +122,7 @@ Future additions may include solutions from:
 | [0049-group-anagrams](https://github.com/devrittik/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/devrittik/leetcode-solutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/devrittik/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/devrittik/leetcode-solutions/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/devrittik/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/devrittik/leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0658-find-k-closest-elements](https://github.com/devrittik/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -132,6 +135,7 @@ Future additions may include solutions from:
 | [0049-group-anagrams](https://github.com/devrittik/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/devrittik/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/devrittik/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/devrittik/leetcode-solutions/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/devrittik/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/devrittik/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0767-reorganize-string](https://github.com/devrittik/leetcode-solutions/tree/master/0767-reorganize-string) |
@@ -183,6 +187,7 @@ Future additions may include solutions from:
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/devrittik/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/devrittik/leetcode-solutions/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/devrittik/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/devrittik/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/devrittik/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -190,4 +195,8 @@ Future additions may include solutions from:
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/devrittik/leetcode-solutions/tree/master/0724-find-pivot-index) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/devrittik/leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
