@@ -73,6 +73,7 @@ Future additions may include solutions from:
 | [0680-valid-palindrome-ii](https://github.com/devrittik/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/devrittik/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0917-reverse-only-letters](https://github.com/devrittik/leetcode-solutions/tree/master/0917-reverse-only-letters) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/devrittik/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Recursion
 |  |
 | ------- |
@@ -81,6 +82,7 @@ Future additions may include solutions from:
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/devrittik/leetcode-solutions/tree/master/0415-add-strings) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/devrittik/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Array
 |  |
 | ------- |
@@ -151,4 +153,8 @@ Future additions may include solutions from:
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/devrittik/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/devrittik/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
