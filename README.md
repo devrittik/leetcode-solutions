@@ -51,6 +51,7 @@ Future additions may include solutions from:
 | [0204-count-primes](https://github.com/devrittik/leetcode-solutions/tree/master/0204-count-primes) |
 | [0273-integer-to-english-words](https://github.com/devrittik/leetcode-solutions/tree/master/0273-integer-to-english-words) |
 | [0415-add-strings](https://github.com/devrittik/leetcode-solutions/tree/master/0415-add-strings) |
+| [0539-minimum-time-difference](https://github.com/devrittik/leetcode-solutions/tree/master/0539-minimum-time-difference) |
 ## String
 |  |
 | ------- |
@@ -67,6 +68,7 @@ Future additions may include solutions from:
 | [0345-reverse-vowels-of-a-string](https://github.com/devrittik/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/devrittik/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/devrittik/leetcode-solutions/tree/master/0415-add-strings) |
+| [0539-minimum-time-difference](https://github.com/devrittik/leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0647-palindromic-substrings](https://github.com/devrittik/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0767-reorganize-string](https://github.com/devrittik/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0917-reverse-only-letters](https://github.com/devrittik/leetcode-solutions/tree/master/0917-reverse-only-letters) |
@@ -85,6 +87,7 @@ Future additions may include solutions from:
 | [0049-group-anagrams](https://github.com/devrittik/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/devrittik/leetcode-solutions/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/devrittik/leetcode-solutions/tree/master/0204-count-primes) |
+| [0539-minimum-time-difference](https://github.com/devrittik/leetcode-solutions/tree/master/0539-minimum-time-difference) |
 ## Enumeration
 |  |
 | ------- |
@@ -105,6 +108,7 @@ Future additions may include solutions from:
 | [0049-group-anagrams](https://github.com/devrittik/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/devrittik/leetcode-solutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/devrittik/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0539-minimum-time-difference](https://github.com/devrittik/leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0767-reorganize-string](https://github.com/devrittik/leetcode-solutions/tree/master/0767-reorganize-string) |
 ## Hash Table
 |  |
