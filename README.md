@@ -53,6 +53,7 @@ Future additions may include solutions from:
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/devrittik/leetcode-solutions/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/devrittik/leetcode-solutions/tree/master/0273-integer-to-english-words) |
 | [0415-add-strings](https://github.com/devrittik/leetcode-solutions/tree/master/0415-add-strings) |
 ## Recursion
@@ -66,6 +67,7 @@ Future additions may include solutions from:
 ## Array
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/devrittik/leetcode-solutions/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/devrittik/leetcode-solutions/tree/master/0204-count-primes) |
 ## Enumeration
 |  |
@@ -75,4 +77,12 @@ Future additions may include solutions from:
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/devrittik/leetcode-solutions/tree/master/0204-count-primes) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/devrittik/leetcode-solutions/tree/master/0179-largest-number) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/devrittik/leetcode-solutions/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
