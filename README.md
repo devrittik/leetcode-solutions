@@ -13,7 +13,7 @@ The goal is to improve problem-solving skills, strengthen Data Structures & Algo
 
 ## 🔗 My LeetCode Profile
 
-https://leetcode.com/YOUR_USERNAME/
+https://leetcode.com/u/devrittik/
 
 ---
 
