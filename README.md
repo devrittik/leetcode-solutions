@@ -121,6 +121,7 @@ Future additions may include solutions from:
 | [1534-count-good-triplets](https://github.com/devrittik/leetcode-solutions/tree/master/1534-count-good-triplets) |
 | [1995-count-special-quadruplets](https://github.com/devrittik/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 | [2028-find-missing-observations](https://github.com/devrittik/leetcode-solutions/tree/master/2028-find-missing-observations) |
+| [2367-number-of-arithmetic-triplets](https://github.com/devrittik/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/devrittik/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3819-rotate-non-negative-elements](https://github.com/devrittik/leetcode-solutions/tree/master/3819-rotate-non-negative-elements) |
 ## Enumeration
@@ -129,6 +130,7 @@ Future additions may include solutions from:
 | [0204-count-primes](https://github.com/devrittik/leetcode-solutions/tree/master/0204-count-primes) |
 | [1534-count-good-triplets](https://github.com/devrittik/leetcode-solutions/tree/master/1534-count-good-triplets) |
 | [1995-count-special-quadruplets](https://github.com/devrittik/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
+| [2367-number-of-arithmetic-triplets](https://github.com/devrittik/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 ## Number Theory
 |  |
 | ------- |
@@ -166,6 +168,7 @@ Future additions may include solutions from:
 | [0532-k-diff-pairs-in-an-array](https://github.com/devrittik/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0767-reorganize-string](https://github.com/devrittik/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [1995-count-special-quadruplets](https://github.com/devrittik/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
+| [2367-number-of-arithmetic-triplets](https://github.com/devrittik/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/devrittik/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Two Pointers
 |  |
@@ -179,6 +182,7 @@ Future additions may include solutions from:
 | [0658-find-k-closest-elements](https://github.com/devrittik/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/devrittik/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/devrittik/leetcode-solutions/tree/master/0917-reverse-only-letters) |
+| [2367-number-of-arithmetic-triplets](https://github.com/devrittik/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 ## Dynamic Programming
 |  |
 | ------- |
