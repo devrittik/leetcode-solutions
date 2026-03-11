@@ -67,6 +67,7 @@ Future additions may include solutions from:
 | [0345-reverse-vowels-of-a-string](https://github.com/devrittik/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/devrittik/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/devrittik/leetcode-solutions/tree/master/0415-add-strings) |
+| [0647-palindromic-substrings](https://github.com/devrittik/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0767-reorganize-string](https://github.com/devrittik/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0917-reverse-only-letters](https://github.com/devrittik/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 ## Recursion
@@ -120,11 +121,13 @@ Future additions may include solutions from:
 | [0005-longest-palindromic-substring](https://github.com/devrittik/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devrittik/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/devrittik/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0647-palindromic-substrings](https://github.com/devrittik/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0917-reverse-only-letters](https://github.com/devrittik/leetcode-solutions/tree/master/0917-reverse-only-letters) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devrittik/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0647-palindromic-substrings](https://github.com/devrittik/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
