@@ -107,6 +107,7 @@ Future additions may include solutions from:
 | [0054-spiral-matrix](https://github.com/devrittik/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/devrittik/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/devrittik/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/devrittik/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/devrittik/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0179-largest-number](https://github.com/devrittik/leetcode-solutions/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/devrittik/leetcode-solutions/tree/master/0204-count-primes) |
@@ -190,6 +191,7 @@ Future additions may include solutions from:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devrittik/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0118-pascals-triangle](https://github.com/devrittik/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/devrittik/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/devrittik/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/devrittik/leetcode-solutions/tree/master/0647-palindromic-substrings) |
