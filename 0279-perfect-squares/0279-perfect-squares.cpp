@@ -10,9 +10,9 @@ public:
         auto it = dp.find(n);
         if(it != dp.end()) return it->second;
         int ans = n+1; // +1 for Edge Case : n = 1
-        int numPerfectSqrs;
-        for(int i=1; i<=sqrt(n); i++){
-            numPerfectSqrs = 1 + countSqr((n-i*i), dp);
+        int end = sqrt(n);
+        for(int i=1; i<=end; i++){
+            int numPerfectSqrs = 1 + countSqr((n-i*i), dp);
             ans = ans > numPerfectSqrs ? numPerfectSqrs : ans ;
         }
 
