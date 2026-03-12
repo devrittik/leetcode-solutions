@@ -51,6 +51,7 @@ Future additions may include solutions from:
 | [0204-count-primes](https://github.com/devrittik/leetcode-solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/devrittik/leetcode-solutions/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/devrittik/leetcode-solutions/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/devrittik/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0415-add-strings](https://github.com/devrittik/leetcode-solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/devrittik/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0539-minimum-time-difference](https://github.com/devrittik/leetcode-solutions/tree/master/0539-minimum-time-difference) |
@@ -197,6 +198,7 @@ Future additions may include solutions from:
 | [0119-pascals-triangle-ii](https://github.com/devrittik/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devrittik/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/devrittik/leetcode-solutions/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/devrittik/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/devrittik/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/devrittik/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Heap (Priority Queue)
@@ -257,4 +259,8 @@ Future additions may include solutions from:
 | [0054-spiral-matrix](https://github.com/devrittik/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/devrittik/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0885-spiral-matrix-iii](https://github.com/devrittik/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/devrittik/leetcode-solutions/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
