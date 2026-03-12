@@ -111,6 +111,7 @@ Future additions may include solutions from:
 | [0119-pascals-triangle-ii](https://github.com/devrittik/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devrittik/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/devrittik/leetcode-solutions/tree/master/0179-largest-number) |
+| [0198-house-robber](https://github.com/devrittik/leetcode-solutions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/devrittik/leetcode-solutions/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/devrittik/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/devrittik/leetcode-solutions/tree/master/0268-missing-number) |
@@ -195,6 +196,7 @@ Future additions may include solutions from:
 | [0118-pascals-triangle](https://github.com/devrittik/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/devrittik/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devrittik/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/devrittik/leetcode-solutions/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/devrittik/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/devrittik/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Heap (Priority Queue)
