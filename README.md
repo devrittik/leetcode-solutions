@@ -124,6 +124,7 @@ Future additions may include solutions from:
 | [0724-find-pivot-index](https://github.com/devrittik/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/devrittik/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0885-spiral-matrix-iii](https://github.com/devrittik/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
+| [0983-minimum-cost-for-tickets](https://github.com/devrittik/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1534-count-good-triplets](https://github.com/devrittik/leetcode-solutions/tree/master/1534-count-good-triplets) |
 | [1995-count-special-quadruplets](https://github.com/devrittik/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
 | [2028-find-missing-observations](https://github.com/devrittik/leetcode-solutions/tree/master/2028-find-missing-observations) |
@@ -201,6 +202,7 @@ Future additions may include solutions from:
 | [0279-perfect-squares](https://github.com/devrittik/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/devrittik/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/devrittik/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [0983-minimum-cost-for-tickets](https://github.com/devrittik/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
