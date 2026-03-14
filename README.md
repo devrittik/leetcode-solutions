@@ -122,6 +122,7 @@ Future additions may include solutions from:
 | [0643-maximum-average-subarray-i](https://github.com/devrittik/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/devrittik/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/devrittik/leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/devrittik/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/devrittik/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0885-spiral-matrix-iii](https://github.com/devrittik/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
 | [0983-minimum-cost-for-tickets](https://github.com/devrittik/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
@@ -202,6 +203,7 @@ Future additions may include solutions from:
 | [0279-perfect-squares](https://github.com/devrittik/leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/devrittik/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/devrittik/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [0746-min-cost-climbing-stairs](https://github.com/devrittik/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0983-minimum-cost-for-tickets](https://github.com/devrittik/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/devrittik/leetcode-solutions/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 ## Heap (Priority Queue)
