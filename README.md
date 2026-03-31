@@ -65,6 +65,7 @@ Future additions may include solutions from:
 | [0006-zigzag-conversion](https://github.com/devrittik/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/devrittik/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/devrittik/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/devrittik/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/devrittik/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/devrittik/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/devrittik/leetcode-solutions/tree/master/0179-largest-number) |
@@ -197,6 +198,7 @@ Future additions may include solutions from:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devrittik/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/devrittik/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/devrittik/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/devrittik/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devrittik/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -272,5 +274,6 @@ Future additions may include solutions from:
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/devrittik/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/devrittik/leetcode-solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
