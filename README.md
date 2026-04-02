@@ -108,6 +108,7 @@ Future additions may include solutions from:
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/devrittik/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/devrittik/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/devrittik/leetcode-solutions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/devrittik/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/devrittik/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/devrittik/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/devrittik/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -203,6 +204,7 @@ Future additions may include solutions from:
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/devrittik/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/devrittik/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/devrittik/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/devrittik/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/devrittik/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devrittik/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -285,6 +287,7 @@ Future additions may include solutions from:
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/devrittik/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0912-sort-an-array](https://github.com/devrittik/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
