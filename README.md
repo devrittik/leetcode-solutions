@@ -128,6 +128,7 @@ Future additions may include solutions from:
 | [0746-min-cost-climbing-stairs](https://github.com/devrittik/leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/devrittik/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0885-spiral-matrix-iii](https://github.com/devrittik/leetcode-solutions/tree/master/0885-spiral-matrix-iii) |
+| [0912-sort-an-array](https://github.com/devrittik/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/devrittik/leetcode-solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1534-count-good-triplets](https://github.com/devrittik/leetcode-solutions/tree/master/1534-count-good-triplets) |
 | [1995-count-special-quadruplets](https://github.com/devrittik/leetcode-solutions/tree/master/1995-count-special-quadruplets) |
@@ -165,6 +166,7 @@ Future additions may include solutions from:
 | [0539-minimum-time-difference](https://github.com/devrittik/leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0658-find-k-closest-elements](https://github.com/devrittik/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/devrittik/leetcode-solutions/tree/master/0767-reorganize-string) |
+| [0912-sort-an-array](https://github.com/devrittik/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/devrittik/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 ## Hash Table
 |  |
@@ -216,6 +218,7 @@ Future additions may include solutions from:
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/devrittik/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/devrittik/leetcode-solutions/tree/master/0767-reorganize-string) |
+| [0912-sort-an-array](https://github.com/devrittik/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -279,4 +282,24 @@ Future additions may include solutions from:
 | [0017-letter-combinations-of-a-phone-number](https://github.com/devrittik/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/devrittik/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/devrittik/leetcode-solutions/tree/master/0051-n-queens) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/devrittik/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/devrittik/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/devrittik/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/devrittik/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/devrittik/leetcode-solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
